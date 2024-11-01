@@ -1,7 +1,12 @@
-import React from 'react'
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import Booking from './pages/Booking.jsx'
 
 export default function App() {
   return (
-    <div className='text-3xl'>App</div>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/appointment" element={<Booking/>} />
+      </Routes>
+    </BrowserRouter>
   )
 }
