@@ -1,5 +1,6 @@
 ## Overview
 This project aims to build an appointment booking page for Synced, a health and wellness platform supporting services like massage, acupuncture, and other treatments
+<img width="938" alt="image" src="https://github.com/user-attachments/assets/fe714749-f1c6-41f2-b093-59117f6671fe">
 ## Setup
 ### Software setup
 You need: 
